@@ -1,6 +1,5 @@
 # Kmeans聚类
 
-![Untitled](Kmeans%E8%81%9A%E7%B1%BB%20a980b/Untitled.png)
 
 ```python
 import numpy as np
