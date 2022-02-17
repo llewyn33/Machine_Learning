@@ -1,13 +1,5 @@
 # K近邻（KNN）
 
-![Untitled](K%E8%BF%91%E9%82%BB%EF%BC%88KNN%EF%BC%89%208db00/Untitled.png)
-
-![Untitled](K%E8%BF%91%E9%82%BB%EF%BC%88KNN%EF%BC%89%208db00/Untitled%201.png)
-
-![Untitled](K%E8%BF%91%E9%82%BB%EF%BC%88KNN%EF%BC%89%208db00/Untitled%202.png)
-
-![Untitled](K%E8%BF%91%E9%82%BB%EF%BC%88KNN%EF%BC%89%208db00/Untitled%203.png)
-
 ```python
 import numpy as np
 import pandas as pd
